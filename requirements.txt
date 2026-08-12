@@ -1,0 +1,10 @@
+streamlit
+langgraph
+langchain
+langchain-groq
+langchain-mcp-adapters
+mcp>=1.24,<2
+python-dotenv
+requests
+psycopg[binary,pool]
+langgraph-checkpoint-postgres
